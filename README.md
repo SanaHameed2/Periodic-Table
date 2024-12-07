@@ -6,7 +6,7 @@ Features:
 
 Static HTML and CSS layout.
 Displays basic information about each element.
-Organized and easy-to-read grid format.
+Organized and easy to read.
 Tech Stack:
 
 HTML5: For creating the structure of the periodic table.
